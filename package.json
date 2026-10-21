@@ -1,0 +1,8 @@
+{
+  "name": "esppd-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dashboard E-SPPD Monitoring dan Evaluasi Perjalanan Dinas",
+  "scripts": { "start": "node serve.cjs" },
+  "engines": { "node": ">=18" }
+}
